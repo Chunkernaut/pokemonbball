@@ -1,0 +1,12 @@
+{
+  "name": "pokemon-baseball-draft-v2",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Fifteen-Pokemon fantasy baseball draft with 162-game season simulation",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
